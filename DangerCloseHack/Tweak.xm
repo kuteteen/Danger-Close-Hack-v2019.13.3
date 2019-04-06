@@ -59,7 +59,3 @@ duration: 30.0f];
 return %orig;
 }
 %end
-
-
-
-
