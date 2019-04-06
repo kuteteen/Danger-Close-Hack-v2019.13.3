@@ -1,0 +1,9 @@
+Package: com.klashksa.dc
+Name: DangerCloseHack
+Depends: mobilesubstrate
+Version: 2019.13.3
+Architecture: iphoneos-arm
+Description: High Jump Hack made by @Y_Dagriri works on ios8-9-10-11-12
+Maintainer: Y_Dagriri
+Author: Y_Dagriri
+Section: Tweaks
