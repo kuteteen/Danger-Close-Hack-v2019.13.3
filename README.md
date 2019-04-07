@@ -3,4 +3,4 @@ if you want me update the hack PM me on twitter @Y_Dagriri
 
 game link on app store https://itunes.apple.com/us/app/danger-close/id1439231145?mt=8&uo=4&at=1010lce4
 
-( I will make VIP hack for this game with moer features on https://www.iosmods.com soon ;) )
+( I will make VIP hack for this game with more features on https://www.iosmods.com soon ;) )
